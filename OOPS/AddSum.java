@@ -2,9 +2,9 @@ class EvenOdd {
     public void evenodd() {
         int a = 10;
         if (a % 2 == 0)
-            System.out.println("no is even");
+            System.out.println("No is even");
         else
-            System.out.println("no is not even");
+            System.out.println("No is not even");
     }
 
     public void factorial() {
@@ -13,7 +13,7 @@ class EvenOdd {
         for (int i = 1; i <= n; i++) {
             fact = fact * i;
         }
-        System.out.println("factorial is " + fact);
+        System.out.println("Factorial is " + fact);
     }
 
     public class Addsub {
